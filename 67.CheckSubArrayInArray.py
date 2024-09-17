@@ -18,6 +18,6 @@ while i< len(array):
             i+=1
             break
 
-else:
-    print("No")
+# else:
+#     print("No")
 
