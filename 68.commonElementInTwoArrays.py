@@ -8,5 +8,5 @@ for i in range(n):
             print(arr2[j],end=" ")
             arr2[j]=0
             break
-print()
+# print()
 

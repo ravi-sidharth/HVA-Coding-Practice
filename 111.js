@@ -11,3 +11,4 @@ let date1=new Date("2005-03-02T10:01:15.000Z")
 let date2 =new Date("2005-03-02T10:00:05.000Z")
 
 console.log(getMillisecondsBetween(date1,date2))
+
