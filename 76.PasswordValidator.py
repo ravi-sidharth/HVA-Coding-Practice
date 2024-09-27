@@ -12,7 +12,7 @@ for char in s:
         con3 = True
     elif char.isnumeric():
         con4 = True
-    elif char.isalnum:
+    elif not char.isspace():
         con5 = True
     
 con = all([con1,con2,con3,con4,con5])
